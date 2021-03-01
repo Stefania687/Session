@@ -10,7 +10,6 @@
 	<h2>Dettagli utente</h2>
 	<p>Nome: ${name}</p>
 	<form method="get">
-		<input type="submit" name="details" value="Details" formaction="login" />
 		<input type="submit" name="submit" value="logout" formaction="logout" />
 
 	</form>
