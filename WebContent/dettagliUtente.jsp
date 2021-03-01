@@ -11,7 +11,7 @@
 	<p>Nome: ${name}</p>
 	<form method="get">
 		<input type="submit" name="submit" value="logout" formaction="logout" />
-
+		<input type="submit" name="submit" value="utente" formaction="paginaUtente" />
 	</form>
 
 </body>
